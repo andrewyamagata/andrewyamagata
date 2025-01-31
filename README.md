@@ -7,7 +7,9 @@
 
 ###
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/andrewyamagata/andrewyamagata/output/snake.svg" alt="Snake animation" />
 
 ###
 
